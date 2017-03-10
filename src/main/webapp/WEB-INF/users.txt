@@ -2,6 +2,5 @@
 # Minimalistic access control is provided through the following permissions: write, read, or list.
 # Syntax is:
 # <username>:<password>:<permission>
-admin:admin:write
-user:user:read
-guest:guest:list
+retailioMavenPublisher:retailioAdminPublisherPassword@123@123:write
+retailiomavenReader:retailiomavenReader@123@123:read
